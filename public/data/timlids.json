@@ -1,0 +1,10 @@
+[
+  {
+    "id": "person-1",
+    "name": "Имя Фамилия 1",
+    "shortName": "Имя 1",
+    "role": "Тимлид",
+    "avatarInitials": "И1",
+    "avatarColor": "#1C2A48"
+  }
+]
