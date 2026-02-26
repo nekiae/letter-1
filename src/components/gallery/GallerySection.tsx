@@ -15,7 +15,14 @@ export const GallerySection: React.FC = () => {
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/gallery.json`)
       .then((r) => r.json())
-      .then((data: GalleryData) => setPhotos(data.photos))
+      .then((data: GalleryData) => {
+        const base = import.meta.env.BASE_URL
+        setPhotos(data.photos.map(p => ({
+          ...p,
+          src: p.src ? base + p.src.replace(/^\//, '') : p.src,
+          poster: p.poster ? base + p.poster.replace(/^\//, '') : p.poster,
+        })))
+      })
       .catch((e: unknown) => console.error('Не удалось загрузить галерею:', e))
   }, [])
 
