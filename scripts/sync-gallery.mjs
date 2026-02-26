@@ -127,8 +127,8 @@ async function main() {
   try {
     files = await readdir(PHOTO_DIR);
   } catch {
-    console.error(`Папка photo/ не найдена: ${PHOTO_DIR}`);
-    process.exit(1);
+    console.log('Папка photo/ не найдена — пропускаем sync-gallery.');
+    return;
   }
 
   const mediaFiles = files.filter(f => {
