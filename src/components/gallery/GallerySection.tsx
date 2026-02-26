@@ -13,7 +13,7 @@ export const GallerySection: React.FC = () => {
   const videoRef = useRef<HTMLVideoElement>(null)
 
   useEffect(() => {
-    fetch('/data/gallery.json')
+    fetch(`${import.meta.env.BASE_URL}data/gallery.json`)
       .then((r) => r.json())
       .then((data: GalleryData) => setPhotos(data.photos))
       .catch((e: unknown) => console.error('Не удалось загрузить галерею:', e))

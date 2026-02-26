@@ -8,7 +8,7 @@ export function useTimlids(): Timlid[] {
   const [timlids, setTimlids] = useState<Timlid[]>([])
 
   useEffect(() => {
-    fetch('/data/timlids.json')
+    fetch(`${import.meta.env.BASE_URL}data/timlids.json`)
       .then((r) => r.json())
       .then((data: Timlid[]) => setTimlids(data))
       .catch((err: unknown) => {

@@ -33,5 +33,4 @@ pnpm-debug.log*
 .vite/
 
 # source photos (synced locally to public/assets/gallery/ before deploy)
-music/
 

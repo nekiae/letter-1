@@ -245,7 +245,7 @@ function App() {
       <div className="vignette fixed inset-0 z-10 pointer-events-none" aria-hidden="true" />
 
       {/* Аудио */}
-      <audio ref={audioRef} src="/music/тима музЫка - Звезда.mp3" loop preload="auto" />
+      <audio ref={audioRef} src={`${import.meta.env.BASE_URL}music/тима музЫка - Звезда.mp3`} loop preload="auto" />
 
       {/* Заставка */}
       <AnimatePresence>

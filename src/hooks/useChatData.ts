@@ -29,7 +29,7 @@ export function useChatData(timlidId: string | null): UseChatDataResult {
       setError(null)
 
       try {
-        const response = await fetch(`/data/chats/${timlidId}.json`)
+        const response = await fetch(`${import.meta.env.BASE_URL}data/chats/${timlidId}.json`)
 
         if (!response.ok) {
           throw new Error(`Чат не найден: ${timlidId}`)
