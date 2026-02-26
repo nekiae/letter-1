@@ -32,6 +32,7 @@ pnpm-debug.log*
 # vite cache
 .vite/
 
-# auto-generated gallery assets (synced from photo/ at build time)
-public/assets/gallery/
+# source photos (synced locally to public/assets/gallery/ before deploy)
+photo/
+music/
 

@@ -4,105 +4,15 @@
     {
       "id": "photo-001",
       "type": "photo",
-      "src": "/assets/gallery/photo_2026-02-26_21-37-08.jpg",
+      "src": "/assets/gallery/photo_2026-02-26_21-38-50.jpg",
       "caption": "",
       "date": "",
-      "placeholderColor": "#A8B4C4",
-      "rotation": -2.4,
+      "placeholderColor": "#D4B8A0",
+      "rotation": -1.2,
       "aspect": "portrait"
     },
     {
       "id": "photo-002",
-      "type": "photo",
-      "src": "/assets/gallery/photo_2025-10-23_00-29-00.jpg",
-      "caption": "",
-      "date": "",
-      "placeholderColor": "#C8C4A8",
-      "rotation": 0.1,
-      "aspect": "square"
-    },
-    {
-      "id": "photo-003",
-      "type": "photo",
-      "src": "/assets/gallery/photo_2025-10-16_15-05-26.jpg",
-      "caption": "",
-      "date": "",
-      "placeholderColor": "#C8C4A8",
-      "rotation": 1.7,
-      "aspect": "portrait"
-    },
-    {
-      "id": "photo-004",
-      "type": "photo",
-      "src": "/assets/gallery/photo_2026-02-26_14-50-06.jpg",
-      "caption": "",
-      "date": "",
-      "placeholderColor": "#B4A8C8",
-      "rotation": -2.9,
-      "aspect": "portrait"
-    },
-    {
-      "id": "photo-005",
-      "type": "photo",
-      "src": "/assets/gallery/photo_2025-04-15_18-49-23.jpg",
-      "caption": "",
-      "date": "",
-      "placeholderColor": "#B5C4B5",
-      "rotation": -2.2,
-      "aspect": "portrait"
-    },
-    {
-      "id": "photo-006",
-      "type": "photo",
-      "src": "/assets/gallery/photo_2025-04-14_15-35-12.jpg",
-      "caption": "",
-      "date": "",
-      "placeholderColor": "#C4A898",
-      "rotation": -2.6,
-      "aspect": "landscape"
-    },
-    {
-      "id": "photo-007",
-      "type": "photo",
-      "src": "/assets/gallery/photo_2026-02-05_19-06-40.jpg",
-      "caption": "",
-      "date": "",
-      "placeholderColor": "#A8B4C4",
-      "rotation": -0.3,
-      "aspect": "portrait"
-    },
-    {
-      "id": "photo-008",
-      "type": "photo",
-      "src": "/assets/gallery/photo_2025-11-02_15-43-51.jpg",
-      "caption": "",
-      "date": "",
-      "placeholderColor": "#C8C4A8",
-      "rotation": 2.5,
-      "aspect": "portrait"
-    },
-    {
-      "id": "photo-009",
-      "type": "photo",
-      "src": "/assets/gallery/photo_2025-03-20_22-52-48.jpg",
-      "caption": "",
-      "date": "",
-      "placeholderColor": "#B4A8C8",
-      "rotation": -0.2,
-      "aspect": "portrait"
-    },
-    {
-      "id": "photo-010",
-      "type": "photo",
-      "src": "/assets/gallery/photo_2026-02-26_21-38-42.jpg",
-      "caption": "",
-      "date": "",
-      "placeholderColor": "#A0B4C8",
-      "rotation": -0.2,
-      "aspect": "portrait"
-    },
-    {
-      "id": "photo-011",
       "type": "photo",
       "src": "/assets/gallery/photo_2026-02-26_21-38-46.jpg",
       "caption": "",
@@ -112,38 +22,27 @@
       "aspect": "portrait"
     },
     {
-      "id": "photo-012",
+      "id": "photo-003",
       "type": "photo",
-      "src": "/assets/gallery/photo_2025-04-03_15-13-19.jpg",
+      "src": "/assets/gallery/photo_2025-03-20_22-52-48.jpg",
       "caption": "",
       "date": "",
-      "placeholderColor": "#A8B4C4",
-      "rotation": -0.7,
+      "placeholderColor": "#B4A8C8",
+      "rotation": -0.2,
       "aspect": "portrait"
     },
     {
-      "id": "photo-013",
+      "id": "photo-004",
       "type": "photo",
-      "src": "/assets/gallery/photo_2026-02-26_21-38-50.jpg",
-      "caption": "",
-      "date": "",
-      "placeholderColor": "#D4B8A0",
-      "rotation": -1.2,
-      "aspect": "portrait"
-    },
-    {
-      "id": "video-014",
-      "type": "video",
-      "src": "/assets/gallery/IMG_7267.MOV",
+      "src": "/assets/gallery/photo_2025-10-16_15-05-26.jpg",
       "caption": "",
       "date": "",
       "placeholderColor": "#C8C4A8",
-      "rotation": 1.2,
-      "aspect": "landscape",
-      "poster": ""
+      "rotation": 1.7,
+      "aspect": "portrait"
     },
     {
-      "id": "video-015",
+      "id": "video-005",
       "type": "video",
       "src": "/assets/gallery/video.mp4",
       "caption": "",
@@ -154,7 +53,129 @@
       "poster": ""
     },
     {
+      "id": "photo-006",
+      "type": "photo",
+      "src": "/assets/gallery/photo_2025-04-03_15-13-19.jpg",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#A8B4C4",
+      "rotation": -0.7,
+      "aspect": "portrait"
+    },
+    {
+      "id": "photo-007",
+      "type": "photo",
+      "src": "/assets/gallery/photo_2025-10-23_00-29-00.jpg",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#C8C4A8",
+      "rotation": 0.1,
+      "aspect": "square"
+    },
+    {
+      "id": "photo-008",
+      "type": "photo",
+      "src": "/assets/gallery/photo_2026-02-26_21-37-08.jpg",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#A8B4C4",
+      "rotation": -2.4,
+      "aspect": "portrait"
+    },
+    {
+      "id": "photo-009",
+      "type": "photo",
+      "src": "/assets/gallery/photo_2025-04-15_18-49-23.jpg",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#B5C4B5",
+      "rotation": -2.2,
+      "aspect": "portrait"
+    },
+    {
+      "id": "photo-010",
+      "type": "photo",
+      "src": "/assets/gallery/photo_2025-04-14_15-35-12.jpg",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#C4A898",
+      "rotation": -2.6,
+      "aspect": "landscape"
+    },
+    {
+      "id": "photo-011",
+      "type": "photo",
+      "src": "/assets/gallery/photo_2026-02-26_14-50-06.jpg",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#B4A8C8",
+      "rotation": -2.9,
+      "aspect": "portrait"
+    },
+    {
+      "id": "photo-012",
+      "type": "photo",
+      "src": "/assets/gallery/photo_2026-02-26_21-37-22.jpg",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#A8B4C4",
+      "rotation": 1.6,
+      "aspect": "portrait"
+    },
+    {
+      "id": "video-013",
+      "type": "video",
+      "src": "/assets/gallery/IMG_7267.MOV",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#C8C4A8",
+      "rotation": 1.2,
+      "aspect": "landscape",
+      "poster": ""
+    },
+    {
+      "id": "photo-014",
+      "type": "photo",
+      "src": "/assets/gallery/photo_2026-02-05_19-06-40.jpg",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#A8B4C4",
+      "rotation": -0.3,
+      "aspect": "portrait"
+    },
+    {
+      "id": "photo-015",
+      "type": "photo",
+      "src": "/assets/gallery/photo_2026-02-26_21-38-42.jpg",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#A0B4C8",
+      "rotation": -0.2,
+      "aspect": "portrait"
+    },
+    {
       "id": "video-016",
+      "type": "video",
+      "src": "/assets/gallery/video_2026-02-26_21-53-59.mp4",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#B8A8A0",
+      "rotation": 2.9,
+      "aspect": "landscape",
+      "poster": ""
+    },
+    {
+      "id": "photo-017",
+      "type": "photo",
+      "src": "/assets/gallery/photo_2025-11-02_15-43-51.jpg",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#C8C4A8",
+      "rotation": 2.5,
+      "aspect": "portrait"
+    },
+    {
+      "id": "video-018",
       "type": "video",
       "src": "/assets/gallery/IMG_2330.MP4",
       "caption": "",
@@ -165,17 +186,7 @@
       "poster": ""
     },
     {
-      "id": "photo-017",
-      "type": "photo",
-      "src": "/assets/gallery/photo_2026-02-26_21-37-22.jpg",
-      "caption": "",
-      "date": "",
-      "placeholderColor": "#A8B4C4",
-      "rotation": 1.6,
-      "aspect": "portrait"
-    },
-    {
-      "id": "photo-018",
+      "id": "photo-019",
       "type": "photo",
       "src": "/assets/gallery/photo_2025-04-14_15-35-17.jpg",
       "caption": "",
@@ -183,17 +194,6 @@
       "placeholderColor": "#C4A898",
       "rotation": 0.8,
       "aspect": "portrait"
-    },
-    {
-      "id": "video-019",
-      "type": "video",
-      "src": "/assets/gallery/video_2026-02-26_21-53-59.mp4",
-      "caption": "",
-      "date": "",
-      "placeholderColor": "#B8A8A0",
-      "rotation": 2.9,
-      "aspect": "landscape",
-      "poster": ""
     }
   ]
 }
